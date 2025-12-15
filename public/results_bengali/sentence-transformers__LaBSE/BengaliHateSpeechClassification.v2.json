@@ -1,0 +1,125 @@
+{
+  "dataset_revision": "ccd942d16d2f0512799a1480034650a7b076027e",
+  "task_name": "BengaliHateSpeechClassification.v2",
+  "mteb_version": "2.3.11",
+  "scores": {
+    "test": [
+      {
+        " ": [
+          {
+            "accuracy": 0.588756,
+            "f1": 0.502474,
+            "f1_weighted": 0.597891,
+            "precision": 0.504745,
+            "precision_weighted": 0.625497,
+            "recall": 0.526419,
+            "recall_weighted": 0.588756,
+            
+          },
+          {
+            "accuracy": 0.630449,
+            "f1": 0.535158,
+            "f1_weighted": 0.627838,
+            "precision": 0.532278,
+            "precision_weighted": 0.630584,
+            "recall": 0.547204,
+            "recall_weighted": 0.630449,
+            
+          },
+          {
+            "accuracy": 0.63108,
+            "f1": 0.551547,
+            "f1_weighted": 0.63243,
+            "precision": 0.55699,
+            "precision_weighted": 0.653341,
+            "recall": 0.576021,
+            "recall_weighted": 0.63108,
+            
+          },
+          {
+            "accuracy": 0.632975,
+            "f1": 0.534838,
+            "f1_weighted": 0.625345,
+            "precision": 0.551019,
+            "precision_weighted": 0.625911,
+            "recall": 0.527241,
+            "recall_weighted": 0.632975,
+            
+          },
+          {
+            "accuracy": 0.603917,
+            "f1": 0.519293,
+            "f1_weighted": 0.606106,
+            "precision": 0.530003,
+            "precision_weighted": 0.623598,
+            "recall": 0.534975,
+            "recall_weighted": 0.603917,
+            
+          },
+          {
+            "accuracy": 0.628553,
+            "f1": 0.553732,
+            "f1_weighted": 0.641824,
+            "precision": 0.560678,
+            "precision_weighted": 0.668744,
+            "recall": 0.567523,
+            "recall_weighted": 0.628553,
+            
+          },
+          {
+            "accuracy": 0.603285,
+            "f1": 0.520323,
+            "f1_weighted": 0.608599,
+            "precision": 0.519687,
+            "precision_weighted": 0.620278,
+            "recall": 0.531081,
+            "recall_weighted": 0.603285,
+            
+          },
+          {
+            "accuracy": 0.576121,
+            "f1": 0.49077,
+            "f1_weighted": 0.578647,
+            "precision": 0.494131,
+            "precision_weighted": 0.597857,
+            "recall": 0.516676,
+            "recall_weighted": 0.576121,
+            
+          },
+          {
+            "accuracy": 0.587492,
+            "f1": 0.50337,
+            "f1_weighted": 0.593123,
+            "precision": 0.532196,
+            "precision_weighted": 0.629568,
+            "recall": 0.5255,
+            "recall_weighted": 0.587492,
+            
+          },
+          {
+            "accuracy": 0.572963,
+            "f1": 0.49445,
+            "f1_weighted": 0.57864,
+            "precision": 0.495273,
+            "precision_weighted": 0.601605,
+            "recall": 0.516996,
+            "recall_weighted": 0.572963,
+            
+          }
+        ],
+        "accuracy": 0.605559,
+        "f1": 0.520595,
+        "f1_weighted": 0.609044,
+        "precision": 0.5277,
+        "precision_weighted": 0.627698,
+        "recall": 0.536964,
+        "recall_weighted": 0.605559,
+        "ap": NaN,
+        "ap_weighted": NaN,
+        "main_score": 0.520595
+      }
+    ]
+  },
+  "evaluation_time": 16.37695550918579,
+  "kg_co2_emissions": null
+}
