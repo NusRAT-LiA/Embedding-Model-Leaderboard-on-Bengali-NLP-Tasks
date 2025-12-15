@@ -695,7 +695,8 @@ function getModelUrl(modelId) {
 }
 async function loadTaskData(modelId, taskFile) {
     try {
-        const response = await fetch(`/results_bengali/${modelId}/${taskFile}`);
+        // Use a relative URL so it works both on localhost (/) and GitHub Pages subpaths (/repo-name/)
+        const response = await fetch(`results_bengali/${modelId}/${taskFile}`);
         if (!response.ok) return null;
         let text = await response.text();
         // Sanitize JSON:

@@ -49,7 +49,8 @@ export function getModelUrl(modelId: string): string {
 
 async function loadTaskData(modelId: string, taskFile: string): Promise<TaskData | null> {
   try {
-    const response = await fetch(`/results_bengali/${modelId}/${taskFile}`)
+    // Use a relative URL so it works both on localhost (/) and GitHub Pages subpaths (/repo-name/)
+    const response = await fetch(`results_bengali/${modelId}/${taskFile}`)
     if (!response.ok) return null
 
     let text = await response.text()
