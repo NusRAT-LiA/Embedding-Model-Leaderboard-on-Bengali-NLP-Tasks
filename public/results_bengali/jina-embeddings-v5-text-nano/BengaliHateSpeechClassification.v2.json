@@ -124,8 +124,8 @@
         "precision_weighted": 0.451165,
         "recall": 0.356358,
         "recall_weighted": 0.377574,
-        "ap": NaN,
-        "ap_weighted": NaN,
+        "ap": null,
+        "ap_weighted": null,
         "main_score": 0.333245,
         "hf_subset": "default",
         "languages": [
