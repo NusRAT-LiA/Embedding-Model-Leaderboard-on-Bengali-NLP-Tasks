@@ -1,0 +1,139 @@
+{
+  "dataset_revision": "23edb78a3dd297a4d92f9c011a0503be0c0949d0",
+  "task_name": "BengaliSentimentAnalysis.v2",
+  "mteb_version": "2.8.2",
+  "scores": {
+    "test": [
+      {
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.754395,
+            "f1": 0.691109,
+            "f1_weighted": 0.751869,
+            "precision": 0.695414,
+            "precision_weighted": 0.749867,
+            "recall": 0.687534,
+            "recall_weighted": 0.754395,
+            "ap": 0.804312,
+            "ap_weighted": 0.804312
+          },
+          {
+            "accuracy": 0.64502,
+            "f1": 0.631304,
+            "f1_weighted": 0.662207,
+            "precision": 0.656001,
+            "precision_weighted": 0.753737,
+            "recall": 0.691863,
+            "recall_weighted": 0.64502,
+            "ap": 0.81285,
+            "ap_weighted": 0.81285
+          },
+          {
+            "accuracy": 0.727539,
+            "f1": 0.670191,
+            "f1_weighted": 0.729957,
+            "precision": 0.667469,
+            "precision_weighted": 0.732826,
+            "recall": 0.673522,
+            "recall_weighted": 0.727539,
+            "ap": 0.79753,
+            "ap_weighted": 0.79753
+          },
+          {
+            "accuracy": 0.625488,
+            "f1": 0.591216,
+            "f1_weighted": 0.642653,
+            "precision": 0.596091,
+            "precision_weighted": 0.684481,
+            "recall": 0.615988,
+            "recall_weighted": 0.625488,
+            "ap": 0.769718,
+            "ap_weighted": 0.769718
+          },
+          {
+            "accuracy": 0.649902,
+            "f1": 0.627994,
+            "f1_weighted": 0.667226,
+            "precision": 0.639227,
+            "precision_weighted": 0.730581,
+            "recall": 0.6712,
+            "recall_weighted": 0.649902,
+            "ap": 0.799512,
+            "ap_weighted": 0.799512
+          },
+          {
+            "accuracy": 0.583984,
+            "f1": 0.580673,
+            "f1_weighted": 0.596867,
+            "precision": 0.649664,
+            "precision_weighted": 0.760794,
+            "recall": 0.672337,
+            "recall_weighted": 0.583984,
+            "ap": 0.80551,
+            "ap_weighted": 0.80551
+          },
+          {
+            "accuracy": 0.633789,
+            "f1": 0.621294,
+            "f1_weighted": 0.651188,
+            "precision": 0.650042,
+            "precision_weighted": 0.749116,
+            "recall": 0.684034,
+            "recall_weighted": 0.633789,
+            "ap": 0.808651,
+            "ap_weighted": 0.808651
+          },
+          {
+            "accuracy": 0.426758,
+            "f1": 0.425837,
+            "f1_weighted": 0.415847,
+            "precision": 0.552484,
+            "precision_weighted": 0.658648,
+            "recall": 0.547566,
+            "recall_weighted": 0.426758,
+            "ap": 0.738715,
+            "ap_weighted": 0.738715
+          },
+          {
+            "accuracy": 0.724121,
+            "f1": 0.65342,
+            "f1_weighted": 0.721446,
+            "precision": 0.6567,
+            "precision_weighted": 0.719205,
+            "recall": 0.650735,
+            "recall_weighted": 0.724121,
+            "ap": 0.785515,
+            "ap_weighted": 0.785515
+          },
+          {
+            "accuracy": 0.640137,
+            "f1": 0.628597,
+            "f1_weighted": 0.657047,
+            "precision": 0.659031,
+            "precision_weighted": 0.759126,
+            "recall": 0.694737,
+            "recall_weighted": 0.640137,
+            "ap": 0.815213,
+            "ap_weighted": 0.815213
+          }
+        ],
+        "accuracy": 0.641113,
+        "f1": 0.612164,
+        "f1_weighted": 0.649631,
+        "precision": 0.642212,
+        "precision_weighted": 0.729838,
+        "recall": 0.658952,
+        "recall_weighted": 0.641113,
+        "ap": 0.793753,
+        "ap_weighted": 0.793753,
+        "main_score": 0.612164,
+        "hf_subset": "default",
+        "languages": [
+          "ben-Beng"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 55.8441162109375,
+  "kg_co2_emissions": null
+}
